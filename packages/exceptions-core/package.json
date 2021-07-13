@@ -10,7 +10,7 @@
     "stacktrace-js": "^2.0.0"
   },
   "devDependencies": {
-    "mockdate": "^2.0.2",
+    "mockdate": "^3.0.5",
     "stacktrace-js": "^2.0.0"
   },
   "publishConfig": {
